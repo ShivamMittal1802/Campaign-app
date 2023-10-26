@@ -1,0 +1,885 @@
+.scube {
+  position: absolute;
+  top: calc(50% - 5234px);
+  left: 2498px;
+  font-size: var(--font-size-5xl);
+  letter-spacing: 10px;
+  line-height: 32px;
+  text-transform: uppercase;
+}
+.readyToGoChild {
+  position: absolute;
+  top: -5px;
+  left: 0;
+  background-color: var(--color-gray-300);
+  width: 82px;
+  height: 949px;
+}
+.frameIcon {
+  position: absolute;
+  top: 46px;
+  left: 19px;
+  width: 46px;
+  height: 46px;
+  overflow: hidden;
+}
+.readyToGoItem {
+  position: absolute;
+  top: -8px;
+  left: 82px;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-lavender);
+  box-sizing: border-box;
+  width: 1373px;
+  height: 80px;
+}
+.mukundCakeShop,
+.vectorIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.vectorIcon {
+  top: 9px;
+  left: 130px;
+  width: 5px;
+  height: 4.5px;
+}
+.mukundCakeShopParent {
+  position: absolute;
+  top: 8px;
+  left: 44px;
+  width: 135px;
+  height: 18px;
+}
+.groupChild,
+.groupParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 36px;
+  height: 36px;
+}
+.groupParent {
+  top: 20px;
+  left: 1174px;
+  width: 179px;
+  font-size: var(--font-size-sm);
+  color: var(--color-steelblue);
+}
+.readyToGoInner {
+  position: absolute;
+  top: 28.3px;
+  left: 1368.3px;
+  width: 21.5px;
+  height: 21.5px;
+}
+.vuesaxlinearnotificationIcon {
+  position: absolute;
+  top: 29px;
+  left: 1138px;
+  width: 20px;
+  height: 20px;
+}
+.launchYourAd,
+.yourAdCampaign {
+  position: absolute;
+  left: 132px;
+  line-height: 32px;
+}
+.yourAdCampaign {
+  top: 112px;
+  font-size: var(--font-size-5xl);
+}
+.launchYourAd {
+  top: 142px;
+  color: var(--color-gray-500);
+}
+.groupItem,
+.rectangleDiv {
+  position: absolute;
+  box-sizing: border-box;
+}
+.rectangleDiv {
+  top: 344px;
+  left: 132px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-lavender);
+  width: 1258px;
+  height: 480px;
+}
+.groupItem {
+  top: 366.5px;
+  left: 288.9px;
+  border-radius: var(--br-mini);
+  border: 1.5px solid var(--color-royalblue-200);
+  width: 288.9px;
+  height: 366.5px;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.mukundCakeShop1,
+.weAreThe {
+  position: absolute;
+  top: 53.1px;
+  left: 0;
+  line-height: 20px;
+  display: inline-block;
+  width: 250.7px;
+  height: 63.7px;
+}
+.mukundCakeShop1 {
+  top: 0;
+  left: 51px;
+  line-height: 23px;
+  width: 153px;
+  height: 24.4px;
+}
+.unsplashiskck0kl210Icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  width: 42.5px;
+  height: 42.5px;
+  object-fit: cover;
+}
+.sponsored {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 20px;
+  display: inline-block;
+  width: 53.1px;
+  height: 21.2px;
+}
+.path38Icon,
+.sponsoredParent {
+  position: absolute;
+  top: 10.7px;
+  left: 56.3px;
+  width: 7.4px;
+  height: 8.4px;
+}
+.sponsoredParent {
+  top: 21.2px;
+  left: 51px;
+  width: 63.7px;
+  height: 21.2px;
+  font-size: var(--font-size-3xs);
+  color: var(--color-gray-100);
+}
+.mukundCakeShopGroup {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 204px;
+  height: 42.5px;
+  font-size: var(--font-size-base);
+  color: var(--color-darkblue);
+}
+.unsplash4cuz3ls1bciIcon {
+  position: absolute;
+  top: 127.5px;
+  left: 0;
+  width: 250.7px;
+  height: 147.7px;
+  object-fit: cover;
+}
+.groupInner,
+.like,
+.rectangleIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 250.7px;
+  height: 36.1px;
+}
+.like,
+.rectangleIcon {
+  width: 59.3px;
+  height: 23.8px;
+}
+.like {
+  top: 5.5px;
+  left: 28.2px;
+  font-weight: 500;
+  display: inline-block;
+  width: 20.9px;
+  height: 13.7px;
+}
+.thumbIcon {
+  position: absolute;
+  top: 5.9px;
+  left: 10.1px;
+  width: 11.6px;
+  height: 11.6px;
+}
+.groupDiv,
+.mukundCakeShop2 {
+  position: absolute;
+  top: 0;
+  left: 152.2px;
+  width: 59.2px;
+  height: 23.7px;
+}
+.mukundCakeShop2 {
+  top: 0.3px;
+  left: 0;
+  font-size: var(--font-size-2xs);
+  line-height: 23px;
+  color: var(--color-darkblue);
+  display: inline-block;
+  width: 105.2px;
+  height: 24.4px;
+}
+.groupContainer,
+.vectorParent {
+  position: absolute;
+  top: 6.1px;
+  left: 12.7px;
+  width: 211.4px;
+  height: 24.7px;
+}
+.vectorParent {
+  top: 239px;
+  left: 0;
+  width: 250.7px;
+  height: 36.1px;
+  font-size: var(--font-size-3xs);
+  color: var(--color-dimgray-200);
+}
+.rectangleParent,
+.weAreTheBestBakeryAroundParent {
+  position: absolute;
+  top: 19.1px;
+  left: 19.1px;
+  width: 250.7px;
+  height: 275.1px;
+}
+.rectangleParent {
+  top: 427.5px;
+  left: 164px;
+  width: 288.9px;
+  height: 366.5px;
+  font-size: var(--font-size-sm);
+}
+.groupChild1 {
+  position: absolute;
+  top: 316px;
+  left: 289px;
+  border-radius: var(--br-mini);
+  border: 1.5px solid var(--color-whitesmoke-100);
+  box-sizing: border-box;
+  width: 289px;
+  height: 316px;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.path38Icon1,
+.sponsoredGroup {
+  position: absolute;
+  top: 36.3px;
+  left: 56.3px;
+  width: 7.4px;
+  height: 9.4px;
+}
+.sponsoredGroup {
+  top: 21.2px;
+  left: 51px;
+  width: 63.7px;
+  height: 45.6px;
+  font-size: var(--font-size-3xs);
+  color: var(--color-gray-100);
+}
+.mukundCakeShopContainer {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 204px;
+  height: 66.9px;
+  font-size: var(--font-size-base);
+  color: var(--color-darkblue);
+}
+.rectangleGroup,
+.weAreTheBestBakeryAroundGroup {
+  position: absolute;
+  top: 18.6px;
+  left: 18.8px;
+  width: 250.7px;
+  height: 275.1px;
+}
+.rectangleGroup {
+  top: 428px;
+  left: 466px;
+  width: 289px;
+  height: 316px;
+  font-size: var(--font-size-sm);
+}
+.mukundCakeShop5,
+.weAreThe2 {
+  position: absolute;
+  top: 52.8px;
+  left: 0;
+  line-height: 20px;
+  display: inline-block;
+  width: 250.7px;
+  height: 63.4px;
+}
+.mukundCakeShop5 {
+  top: 0;
+  left: 51px;
+  line-height: 23px;
+  width: 153px;
+  height: 24.3px;
+}
+.unsplashiskck0kl210Icon2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  width: 42.5px;
+  height: 42.2px;
+  object-fit: cover;
+}
+.sponsored2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 20px;
+  display: inline-block;
+  width: 53.1px;
+  height: 21.1px;
+}
+.path38Icon2 {
+  position: absolute;
+  top: 36.1px;
+  left: 56.3px;
+  width: 7.4px;
+  height: 9.3px;
+}
+.sponsoredContainer {
+  position: absolute;
+  top: 21.1px;
+  left: 51px;
+  width: 63.7px;
+  height: 45.4px;
+  font-size: var(--font-size-3xs);
+  color: var(--color-gray-100);
+}
+.mukundCakeShopParent1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 204px;
+  height: 66.5px;
+  font-size: var(--font-size-base);
+  color: var(--color-darkblue);
+}
+.unsplashvnm6Liirj0Icon {
+  position: absolute;
+  top: 126.7px;
+  left: 0;
+  width: 250.7px;
+  height: 146.8px;
+  object-fit: cover;
+}
+.groupChild5,
+.groupChild6,
+.like2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 250.7px;
+  height: 35.9px;
+}
+.groupChild6,
+.like2 {
+  width: 59.3px;
+  height: 23.6px;
+}
+.like2 {
+  top: 5.4px;
+  left: 28.2px;
+  font-weight: 500;
+  display: inline-block;
+  width: 20.9px;
+  height: 13.6px;
+}
+.thumbIcon2 {
+  position: absolute;
+  top: 5.8px;
+  left: 10.1px;
+  width: 11.6px;
+  height: 11.5px;
+}
+.groupParent4,
+.mukundCakeShop6 {
+  position: absolute;
+  top: 0;
+  left: 152.2px;
+  width: 59.2px;
+  height: 23.5px;
+}
+.mukundCakeShop6 {
+  top: 0.3px;
+  left: 0;
+  font-size: var(--font-size-2xs);
+  line-height: 23px;
+  color: var(--color-darkblue);
+  display: inline-block;
+  width: 105.2px;
+  height: 24.3px;
+}
+.groupParent3,
+.vectorContainer {
+  position: absolute;
+  top: 6.1px;
+  left: 12.7px;
+  width: 211.4px;
+  height: 24.6px;
+}
+.vectorContainer {
+  top: 237.6px;
+  left: 0;
+  width: 250.7px;
+  height: 35.9px;
+  font-size: var(--font-size-3xs);
+  color: var(--color-dimgray-200);
+}
+.weAreTheBestBakeryAroundContainer {
+  position: absolute;
+  top: 18.5px;
+  left: 19.5px;
+  width: 250.7px;
+  height: 273.5px;
+}
+.rectangleContainer {
+  position: absolute;
+  top: 428px;
+  left: 767px;
+  width: 289px;
+  height: 316px;
+  font-size: var(--font-size-sm);
+}
+.weAreTheBestBakeryAroundParent1 {
+  position: absolute;
+  top: 18.6px;
+  left: 19.2px;
+  width: 250.7px;
+  height: 275.1px;
+}
+.rectangleParent1 {
+  position: absolute;
+  top: 428px;
+  left: 1069px;
+  width: 289px;
+  height: 316px;
+  font-size: var(--font-size-sm);
+}
+.readyToGo1 {
+  position: absolute;
+  top: 363px;
+  left: 164px;
+  line-height: 32px;
+}
+.readyToGoChild1 {
+  position: absolute;
+  top: 399.3px;
+  left: 163.3px;
+  width: 1195.5px;
+  height: 1.5px;
+}
+.vuesaxbulktickCircleIcon {
+  position: absolute;
+  top: 419px;
+  left: 432px;
+  width: 25px;
+  height: 26px;
+}
+.changeImage,
+.groupChild10 {
+  position: absolute;
+  top: 0;
+  height: 34px;
+}
+.groupChild10 {
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-royalblue-300);
+  width: 121.1px;
+}
+.changeImage {
+  left: 15.9px;
+  line-height: 32px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 89.2px;
+}
+.rectangleParent2 {
+  top: 737.7px;
+  left: 183.1px;
+  width: 121.1px;
+  font-size: var(--font-size-xs);
+  color: var(--color-royalblue-200);
+}
+.editText,
+.rectangleParent2,
+.rectangleParent3 {
+  position: absolute;
+  height: 34px;
+}
+.editText {
+  top: 0;
+  left: 35.1px;
+  line-height: 32px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 51px;
+}
+.rectangleParent3 {
+  top: 737.7px;
+  left: 312.7px;
+  width: 121.1px;
+  font-size: var(--font-size-xs);
+  color: var(--color-royalblue-200);
+}
+.groupChild12 {
+  border-radius: var(--br-3xs);
+  background-color: var(--color-royalblue-200);
+}
+.groupChild12,
+.rectangleWrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 237px;
+  height: 50px;
+}
+.startCampaign {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+}
+.groupFrame,
+.groupParent7,
+.groupWrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 118px;
+  height: 20px;
+}
+.groupParent7,
+.groupWrapper {
+  top: 15px;
+  left: 60px;
+}
+.groupParent7 {
+  top: 848px;
+  left: 1153px;
+  width: 237px;
+  height: 50px;
+  color: var(--color-white);
+}
+.home {
+  position: absolute;
+  top: 18px;
+  left: 28px;
+  line-height: 32px;
+}
+.vuesaxlinearhouseIcon {
+  position: absolute;
+  top: 0;
+  left: 33px;
+  width: 21px;
+  height: 21px;
+}
+.products {
+  position: absolute;
+  top: 16px;
+  left: 0;
+  line-height: 32px;
+}
+.productsParent,
+.vuesaxoutlinebagIcon {
+  position: absolute;
+  top: 0;
+  left: 10px;
+  width: 21px;
+  height: 21px;
+}
+.productsParent {
+  top: 140px;
+  left: 21px;
+  width: 44px;
+  height: 48px;
+}
+.customers {
+  position: absolute;
+  top: 14px;
+  left: 0;
+  line-height: 32px;
+}
+.customersParent,
+.vuesaxoutlineprofile2userIcon {
+  position: absolute;
+  top: 0;
+  left: 16px;
+  width: 21px;
+  height: 21px;
+}
+.customersParent {
+  top: 211px;
+  left: 17px;
+  width: 53px;
+  height: 46px;
+}
+.groupChild13,
+.groupChild14 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 0 var(--br-11xs) var(--br-11xs) 0;
+  background-color: var(--color-royalblue-400);
+  width: 82px;
+  height: 58px;
+}
+.groupChild14 {
+  background-color: var(--color-royalblue-100);
+  width: 5px;
+}
+.campaign {
+  position: absolute;
+  top: 15px;
+  left: 0;
+  line-height: 32px;
+  font-weight: 500;
+}
+.campaignParent,
+.vuesaxboldvolumeHighIcon {
+  position: absolute;
+  top: 0;
+  left: 15px;
+  width: 21px;
+  height: 21px;
+}
+.campaignParent {
+  top: 8px;
+  left: 18px;
+  width: 50px;
+  height: 47px;
+}
+.homeParent,
+.rectangleParent4 {
+  position: absolute;
+  top: 62px;
+  left: 0;
+  width: 82px;
+  height: 58px;
+}
+.homeParent {
+  top: 152px;
+  height: 257px;
+  font-size: var(--font-size-3xs);
+  color: var(--color-white);
+}
+.readyToGoChild2,
+.readyToGoChild3 {
+  position: absolute;
+  top: 247.4px;
+  left: 223px;
+  width: 1108px;
+  height: 3px;
+}
+.readyToGoChild3 {
+  top: 242.5px;
+  left: 189.5px;
+  width: 1119px;
+  height: 13px;
+}
+.readyToGo2 {
+  position: absolute;
+  top: 73px;
+  left: 0;
+  letter-spacing: -0.02em;
+  font-weight: 500;
+}
+.groupIcon,
+.readyToGoParent {
+  position: absolute;
+  top: 0;
+  left: 12px;
+  width: 64.6px;
+  height: 64.6px;
+}
+.readyToGoParent {
+  top: 214px;
+  left: 1262px;
+  width: 89px;
+  height: 93px;
+  color: var(--color-gray-200);
+}
+.chooseProduct {
+  position: absolute;
+  top: 70px;
+  left: 0;
+  letter-spacing: -0.02em;
+  font-weight: 500;
+}
+.groupChild15 {
+  position: absolute;
+  top: 0;
+  left: 30px;
+  width: 62px;
+  height: 62px;
+}
+.chooseProductParent {
+  position: absolute;
+  top: 216px;
+  left: 519px;
+  width: 122px;
+  height: 90px;
+  color: var(--color-gray-200);
+}
+.campaignSettings {
+  position: absolute;
+  top: 71px;
+  left: 0;
+  letter-spacing: -0.02em;
+  font-weight: 500;
+}
+.groupChild16 {
+  position: absolute;
+  top: 0;
+  left: 39px;
+  width: 62px;
+  height: 62px;
+}
+.campaignSettingsParent,
+.whatYouWant {
+  position: absolute;
+  color: var(--color-gray-200);
+}
+.campaignSettingsParent {
+  top: 216px;
+  left: 891px;
+  width: 140px;
+  height: 91px;
+}
+.whatYouWant {
+  top: 286px;
+  left: 132px;
+  letter-spacing: -0.02em;
+  font-weight: 500;
+}
+.readyToGoChild4 {
+  position: absolute;
+  top: 219px;
+  left: 172px;
+  width: 62px;
+  height: 62px;
+}
+.vuesaxboldbagIcon,
+.vuesaxboldlampChargeIcon {
+  position: absolute;
+  top: 235px;
+  left: 189px;
+  width: 28px;
+  height: 28px;
+}
+.vuesaxboldbagIcon {
+  top: 234px;
+  left: 566px;
+}
+.step4Of {
+  position: absolute;
+  top: 364px;
+  left: 264px;
+  font-size: var(--font-size-sm);
+  line-height: 32px;
+  color: var(--color-gray-500);
+}
+.vuesaxlineargiftIcon {
+  position: absolute;
+  top: 8px;
+  left: 245px;
+  width: 21px;
+  height: 20px;
+}
+.freeTrialEnds {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 32px;
+}
+.groupChild17 {
+  border-radius: var(--br-8xs);
+  background-color: var(--color-orange);
+}
+.groupChild17,
+.rectangleFrame {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 88px;
+  height: 32px;
+}
+.buyPlanWrapper,
+.groupWrapper1,
+.icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 49px;
+  height: 15px;
+}
+.groupWrapper1,
+.icon {
+  top: 8px;
+  left: 31px;
+}
+.icon {
+  top: 7px;
+  left: 10px;
+  width: 16px;
+  overflow: hidden;
+}
+.groupParent8 {
+  position: absolute;
+  top: 2px;
+  left: 137px;
+  width: 88px;
+  height: 32px;
+  color: var(--color-darkorange);
+}
+.freeTrialEndsIn2DaysParent,
+.vuesaxlineargiftParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 225px;
+  height: 34px;
+}
+.vuesaxlineargiftParent {
+  top: 21px;
+  left: 857px;
+  width: 265px;
+  font-size: var(--font-size-xs);
+  color: var(--color-gray-600);
+}
+.readyToGo {
+  position: relative;
+  background-color: var(--color-ghostwhite);
+  width: 100%;
+  height: 928px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}

@@ -1,0 +1,728 @@
+.scube {
+  position: absolute;
+  top: calc(50% - 5234px);
+  left: 2498px;
+  font-size: var(--font-size-5xl);
+  letter-spacing: 10px;
+  line-height: 32px;
+  text-transform: uppercase;
+  color: var(--color-black);
+}
+.whatYouWantToDoChild {
+  position: absolute;
+  top: -5px;
+  left: 0;
+  background-color: var(--color-gray-300);
+  width: 82px;
+  height: 949px;
+}
+.frameIcon {
+  position: absolute;
+  top: 46px;
+  left: 19px;
+  width: 46px;
+  height: 46px;
+  overflow: hidden;
+}
+.whatYouWantToDoItem {
+  position: absolute;
+  top: -8px;
+  left: 82px;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-lavender);
+  box-sizing: border-box;
+  width: 1373px;
+  height: 80px;
+}
+.mukundCakeShop,
+.vectorIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.vectorIcon {
+  top: 9px;
+  left: 130px;
+  width: 5px;
+  height: 4.5px;
+}
+.mukundCakeShopParent {
+  position: absolute;
+  top: 8px;
+  left: 44px;
+  width: 135px;
+  height: 18px;
+}
+.groupChild,
+.groupParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 36px;
+  height: 36px;
+}
+.groupParent {
+  top: 20px;
+  left: 1174px;
+  width: 179px;
+  font-size: var(--font-size-sm);
+  color: var(--color-steelblue);
+}
+.whatYouWantToDoInner {
+  position: absolute;
+  top: 28.3px;
+  left: 1368.3px;
+  width: 21.5px;
+  height: 21.5px;
+}
+.vuesaxlinearnotificationIcon {
+  position: absolute;
+  top: 29px;
+  left: 1138px;
+  width: 20px;
+  height: 20px;
+}
+.launchYourAd,
+.yourAdCampaign {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 32px;
+}
+.launchYourAd {
+  top: 30px;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-500);
+}
+.yourAdCampaignParent {
+  position: absolute;
+  top: 112px;
+  left: 132px;
+  width: 256px;
+  height: 62px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+}
+.groupItem,
+.rectangleDiv {
+  border-radius: var(--br-3xs);
+}
+.rectangleDiv {
+  position: absolute;
+  top: 338px;
+  left: 132px;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-lavender);
+  box-sizing: border-box;
+  width: 1258px;
+  height: 374px;
+}
+.groupItem {
+  background-color: var(--color-royalblue-200);
+  width: 237px;
+  height: 50px;
+}
+.continue,
+.groupItem,
+.rectangleWrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.rectangleWrapper {
+  width: 237px;
+  height: 50px;
+}
+.continue {
+  font-weight: 500;
+}
+.groupFrame,
+.groupWrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 71px;
+  height: 20px;
+}
+.groupWrapper {
+  top: 15px;
+  left: 83px;
+}
+.groupContainer,
+.whatYouWant {
+  position: absolute;
+  font-size: var(--font-size-base);
+}
+.groupContainer {
+  top: 736px;
+  left: 1152px;
+  width: 237px;
+  height: 50px;
+  color: var(--color-white);
+}
+.whatYouWant {
+  top: 357px;
+  left: 164px;
+  line-height: 32px;
+  color: var(--color-black);
+}
+.whatYouWantToDoChild1 {
+  position: absolute;
+  top: 393.3px;
+  left: 163.3px;
+  width: 1195.5px;
+  height: 1.5px;
+}
+.whatYouWantToDoChild2,
+.whatYouWantToDoChild3 {
+  position: absolute;
+  top: 418px;
+  border-radius: var(--br-3xs);
+  box-sizing: border-box;
+  width: 389px;
+  height: 80px;
+}
+.whatYouWantToDoChild2 {
+  left: 164px;
+  background-color: var(--color-aliceblue);
+  border: 1.5px solid var(--color-royalblue-200);
+}
+.whatYouWantToDoChild3 {
+  left: 565px;
+  border: 1.5px solid var(--color-whitesmoke-200);
+}
+.whatYouWantToDoChild10,
+.whatYouWantToDoChild4,
+.whatYouWantToDoChild5,
+.whatYouWantToDoChild6,
+.whatYouWantToDoChild7,
+.whatYouWantToDoChild8,
+.whatYouWantToDoChild9 {
+  position: absolute;
+  top: 510px;
+  left: 162px;
+  border-radius: var(--br-3xs);
+  border: 1.5px solid var(--color-whitesmoke-200);
+  box-sizing: border-box;
+  width: 389px;
+  height: 80px;
+}
+.whatYouWantToDoChild10,
+.whatYouWantToDoChild5,
+.whatYouWantToDoChild6,
+.whatYouWantToDoChild7,
+.whatYouWantToDoChild8,
+.whatYouWantToDoChild9 {
+  top: 602px;
+}
+.whatYouWantToDoChild10,
+.whatYouWantToDoChild6,
+.whatYouWantToDoChild7,
+.whatYouWantToDoChild8,
+.whatYouWantToDoChild9 {
+  top: 510px;
+  left: 565px;
+}
+.whatYouWantToDoChild10,
+.whatYouWantToDoChild7,
+.whatYouWantToDoChild8,
+.whatYouWantToDoChild9 {
+  top: 602px;
+}
+.whatYouWantToDoChild10,
+.whatYouWantToDoChild8,
+.whatYouWantToDoChild9 {
+  top: 510px;
+  left: 966px;
+}
+.whatYouWantToDoChild10,
+.whatYouWantToDoChild9 {
+  top: 602px;
+}
+.whatYouWantToDoChild10 {
+  top: 418px;
+}
+.getLeadsAs,
+.reachBroadAudience {
+  position: absolute;
+  left: 0;
+  letter-spacing: -0.02em;
+}
+.getLeadsAs {
+  top: 0;
+  font-weight: 500;
+}
+.reachBroadAudience {
+  top: 25px;
+  font-size: var(--font-size-smi);
+  color: rgba(11, 26, 51, 0.5);
+}
+.getLeadsAsCallsParent {
+  position: absolute;
+  top: 437px;
+  left: 225px;
+  width: 293px;
+  height: 41px;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-200);
+}
+.getMoreFb {
+  position: absolute;
+  top: 25px;
+  left: 0;
+  letter-spacing: -0.02em;
+}
+.getMoreFbMessagesFromLeadParent {
+  position: absolute;
+  top: 438px;
+  left: 628px;
+  width: 251px;
+  height: 41px;
+}
+.getCustomerLeads {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-base);
+  letter-spacing: -0.02em;
+  color: var(--color-gray-200);
+}
+.driveVisitsToLocalStoresParent,
+.encourageCustomersToTakeAcParent {
+  position: absolute;
+  top: 528px;
+  left: 225px;
+  width: 214px;
+  height: 41px;
+}
+.driveVisitsToLocalStoresParent {
+  top: 621px;
+  width: 302px;
+}
+.getMoreInstallsInteractionParent,
+.increaseOrganicViewsByObtaParent {
+  position: absolute;
+  top: 528px;
+  left: 628px;
+  width: 293px;
+  height: 41px;
+}
+.getMoreInstallsInteractionParent {
+  top: 621px;
+  width: 247px;
+}
+.getTheRightPeopleToVisitParent {
+  position: absolute;
+  top: 528px;
+  left: 1029px;
+  width: 237px;
+  height: 41px;
+}
+.driveTheSalesOfYourCataloParent,
+.encourageCustomersToFollowParent {
+  position: absolute;
+  top: 621px;
+  left: 1029px;
+  width: 305px;
+  height: 41px;
+}
+.encourageCustomersToFollowParent {
+  top: 436px;
+  width: 246px;
+}
+.vuesaxbulktickCircleIcon {
+  position: absolute;
+  top: 408px;
+  left: 534px;
+  width: 24px;
+  height: 24px;
+}
+.home {
+  position: absolute;
+  top: 18px;
+  left: 28px;
+  line-height: 32px;
+}
+.vuesaxlinearhouseIcon {
+  position: absolute;
+  top: 0;
+  left: 33px;
+  width: 21px;
+  height: 21px;
+}
+.products {
+  position: absolute;
+  top: 16px;
+  left: 0;
+  line-height: 32px;
+}
+.productsParent,
+.vuesaxoutlinebagIcon {
+  position: absolute;
+  top: 0;
+  left: 10px;
+  width: 21px;
+  height: 21px;
+}
+.productsParent {
+  top: 140px;
+  left: 21px;
+  width: 44px;
+  height: 48px;
+}
+.customers {
+  position: absolute;
+  top: 14px;
+  left: 0;
+  line-height: 32px;
+}
+.customersParent,
+.vuesaxoutlineprofile2userIcon {
+  position: absolute;
+  top: 0;
+  left: 16px;
+  width: 21px;
+  height: 21px;
+}
+.customersParent {
+  top: 211px;
+  left: 17px;
+  width: 53px;
+  height: 46px;
+}
+.groupInner {
+  top: 0;
+  border-radius: 0 var(--br-11xs) var(--br-11xs) 0;
+  background-color: var(--color-royalblue-400);
+  width: 82px;
+  height: 58px;
+}
+.campaign,
+.groupChild1,
+.groupInner {
+  position: absolute;
+  left: 0;
+}
+.groupChild1 {
+  top: 0;
+  border-radius: 0 var(--br-11xs) var(--br-11xs) 0;
+  background-color: var(--color-royalblue-100);
+  width: 5px;
+  height: 58px;
+}
+.campaign {
+  top: 15px;
+  line-height: 32px;
+  font-weight: 500;
+}
+.campaignParent,
+.vuesaxboldvolumeHighIcon {
+  position: absolute;
+  top: 0;
+  left: 15px;
+  width: 21px;
+  height: 21px;
+}
+.campaignParent {
+  top: 8px;
+  left: 18px;
+  width: 50px;
+  height: 47px;
+}
+.homeParent,
+.rectangleParent {
+  position: absolute;
+  top: 62px;
+  left: 0;
+  width: 82px;
+  height: 58px;
+}
+.homeParent {
+  top: 152px;
+  height: 257px;
+  font-size: var(--font-size-3xs);
+  color: var(--color-white);
+}
+.step1Of {
+  position: absolute;
+  top: 358px;
+  left: 341px;
+  font-size: var(--font-size-sm);
+  line-height: 32px;
+  color: var(--color-gray-500);
+}
+.whatYouWantToDoChild11 {
+  position: absolute;
+  top: 247.4px;
+  left: 223px;
+  width: 1108px;
+  height: 3px;
+}
+.readyToGo,
+.whatYouWantToDoChild12 {
+  position: absolute;
+  top: 242.4px;
+  left: 189.5px;
+  width: 274px;
+  height: 13px;
+}
+.readyToGo {
+  top: 72.9px;
+  left: 0;
+  letter-spacing: -0.02em;
+  display: inline-block;
+  width: 80.2px;
+  height: 18.7px;
+}
+.groupIcon,
+.readyToGoParent {
+  position: absolute;
+  top: 0;
+  left: 8.3px;
+  width: 64.6px;
+  height: 64.6px;
+}
+.readyToGoParent {
+  top: 214px;
+  left: 1262px;
+  width: 80.2px;
+  height: 91.6px;
+  font-size: var(--font-size-sm);
+  color: var(--color-lightsteelblue);
+}
+.chooseProduct {
+  position: absolute;
+  top: 70.8px;
+  left: 0;
+  letter-spacing: -0.02em;
+}
+.groupChild2 {
+  position: absolute;
+  top: 0;
+  left: 21.9px;
+  width: 64.6px;
+  height: 64.6px;
+}
+.chooseProductParent {
+  position: absolute;
+  top: 216.1px;
+  left: 526px;
+  width: 107px;
+  height: 88.8px;
+  font-size: var(--font-size-sm);
+  color: var(--color-lightsteelblue);
+}
+.campaignSettings {
+  position: absolute;
+  top: 70.8px;
+  left: 0;
+  letter-spacing: -0.02em;
+  display: inline-block;
+  width: 127.1px;
+  height: 18.7px;
+}
+.groupChild3 {
+  position: absolute;
+  top: 0;
+  left: 31.2px;
+  width: 64.6px;
+  height: 64.6px;
+}
+.campaignSettingsParent {
+  position: absolute;
+  top: 217.1px;
+  left: 897.8px;
+  width: 127.1px;
+  height: 89.6px;
+  font-size: var(--font-size-sm);
+  color: var(--color-lightsteelblue);
+}
+.whatYouWant1 {
+  position: absolute;
+  top: 286px;
+  left: 132px;
+  font-size: var(--font-size-base);
+  letter-spacing: -0.02em;
+  font-weight: 500;
+  color: var(--color-gray-200);
+}
+.whatYouWantToDoChild13 {
+  position: absolute;
+  top: 219px;
+  left: 172px;
+  width: 62px;
+  height: 62px;
+}
+.vuesaxboldbagIcon,
+.vuesaxboldlampChargeIcon {
+  position: absolute;
+  top: 235px;
+  left: 189px;
+  width: 28px;
+  height: 28px;
+}
+.vuesaxboldbagIcon {
+  top: 234px;
+  left: 566px;
+}
+.vectorIcon1,
+.whatYouWantToDoChild14 {
+  position: absolute;
+  height: 2.83%;
+  width: 1.77%;
+  top: 49.81%;
+  right: 57.38%;
+  bottom: 47.36%;
+  left: 40.85%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.whatYouWantToDoChild14 {
+  height: 2.73%;
+  width: 1.71%;
+  top: 59.72%;
+  right: 29.58%;
+  bottom: 37.54%;
+  left: 68.72%;
+}
+.usersIcon {
+  position: absolute;
+  top: 538px;
+  left: 185px;
+  width: 24px;
+  height: 24px;
+}
+.phonecallReceiveIcon,
+.userPlus,
+.vectorIcon2 {
+  position: absolute;
+  top: 447px;
+  left: 186px;
+  width: 22px;
+  height: 22px;
+}
+.userPlus,
+.vectorIcon2 {
+  top: 478px;
+  left: 942px;
+}
+.vectorIcon2 {
+  height: 2.83%;
+  width: 1.77%;
+  top: 49.48%;
+  right: 29.46%;
+  bottom: 47.69%;
+  left: 68.77%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.eyeIcon,
+.vectorIcon3 {
+  position: absolute;
+  top: 538px;
+  left: 589px;
+  width: 24px;
+  height: 24px;
+}
+.vectorIcon3 {
+  height: 2.66%;
+  width: 1.77%;
+  top: 70.03%;
+  right: 85.43%;
+  bottom: 27.31%;
+  left: 12.8%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.whatYouWantToDoChild15 {
+  position: absolute;
+  top: 630.3px;
+  left: 592.3px;
+  width: 24.8px;
+  height: 27.8px;
+}
+.whatYouWantToDoChild16 {
+  position: absolute;
+  top: 630px;
+  left: 990px;
+  width: 24px;
+  height: 24px;
+}
+.vuesaxlineargiftIcon {
+  position: absolute;
+  top: 8px;
+  left: 245px;
+  width: 21px;
+  height: 20px;
+}
+.groupChild4 {
+  border-radius: var(--br-8xs);
+  background-color: var(--color-orange);
+}
+.buyPlanWrapper,
+.groupChild4,
+.rectangleContainer {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 88px;
+  height: 32px;
+}
+.buyPlanWrapper {
+  width: 49px;
+  height: 15px;
+}
+.groupWrapper1 {
+  top: 8px;
+  left: 31px;
+  width: 49px;
+  height: 15px;
+}
+.groupDiv,
+.groupWrapper1,
+.icon {
+  position: absolute;
+}
+.icon {
+  top: 7px;
+  left: 10px;
+  width: 16px;
+  height: 15px;
+  overflow: hidden;
+}
+.groupDiv {
+  top: 2px;
+  left: 137px;
+  width: 88px;
+  height: 32px;
+  color: var(--color-darkorange);
+}
+.freeTrialEndsIn2DaysParent,
+.vuesaxlineargiftParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 225px;
+  height: 34px;
+}
+.vuesaxlineargiftParent {
+  top: 21px;
+  left: 857px;
+  width: 265px;
+  font-size: var(--font-size-xs);
+  color: var(--color-gray-600);
+}
+.whatYouWantToDo {
+  position: relative;
+  background-color: var(--color-ghostwhite);
+  width: 100%;
+  height: 900px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-smi);
+  color: var(--color-gray-400);
+  font-family: var(--font-roboto);
+}

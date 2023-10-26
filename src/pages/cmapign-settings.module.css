@@ -1,0 +1,914 @@
+.scube {
+  position: absolute;
+  top: calc(50% - 5140px);
+  left: 2498px;
+  font-size: var(--font-size-5xl);
+  letter-spacing: 10px;
+  line-height: 32px;
+  text-transform: uppercase;
+  color: var(--color-black);
+}
+.cmapignSettingsChild {
+  position: absolute;
+  top: -5px;
+  left: 0;
+  background-color: var(--color-gray-300);
+  width: 82px;
+  height: 1761px;
+}
+.frameIcon {
+  position: absolute;
+  top: 46px;
+  left: 19px;
+  width: 46px;
+  height: 46px;
+  overflow: hidden;
+}
+.cmapignSettingsItem {
+  position: absolute;
+  top: -8px;
+  left: 82px;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-lavender);
+  box-sizing: border-box;
+  width: 1373px;
+  height: 80px;
+}
+.mukundCakeShop,
+.vectorIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.vectorIcon {
+  top: 9px;
+  left: 130px;
+  width: 5px;
+  height: 4.5px;
+}
+.mukundCakeShopParent {
+  position: absolute;
+  top: 8px;
+  left: 44px;
+  width: 135px;
+  height: 18px;
+}
+.groupChild,
+.groupParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 36px;
+  height: 36px;
+}
+.groupParent {
+  top: 20px;
+  left: 1174px;
+  width: 179px;
+  font-size: var(--font-size-sm);
+  color: var(--color-steelblue);
+}
+.cmapignSettingsInner {
+  position: absolute;
+  top: 28.3px;
+  left: 1368.3px;
+  width: 21.5px;
+  height: 21.5px;
+}
+.vuesaxlinearnotificationIcon {
+  position: absolute;
+  top: 29px;
+  left: 1138px;
+  width: 20px;
+  height: 20px;
+}
+.launchYourAd,
+.yourAdCampaign {
+  position: absolute;
+  top: 112px;
+  left: 132px;
+  font-size: var(--font-size-5xl);
+  line-height: 32px;
+  color: var(--color-black);
+}
+.launchYourAd {
+  top: 142px;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-500);
+}
+.rectangleDiv {
+  position: absolute;
+  top: 344px;
+  left: 132px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-lavender);
+  box-sizing: border-box;
+  width: 899px;
+  height: 784px;
+}
+.vuesaxboldcalendarIcon,
+.vuesaxboldcalendarIcon1 {
+  position: absolute;
+  top: 608px;
+  left: 522px;
+  width: 24px;
+  height: 24px;
+}
+.vuesaxboldcalendarIcon1 {
+  top: 610px;
+  left: 898px;
+}
+.cmapignSettingsChild1,
+.cmapignSettingsChild2 {
+  position: absolute;
+  top: 596px;
+  left: 199px;
+  border-radius: var(--br-3xs);
+  border: 1.5px solid var(--color-whitesmoke-400);
+  box-sizing: border-box;
+  width: 363px;
+  height: 50px;
+}
+.cmapignSettingsChild2 {
+  left: 578px;
+  width: 360px;
+}
+.endDate,
+.startDate {
+  position: absolute;
+  top: 563px;
+  left: 199px;
+  line-height: 32px;
+  font-weight: 500;
+}
+.endDate {
+  left: 578px;
+}
+.groupInner,
+.groupItem {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 47.06px;
+  background-color: var(--color-whitesmoke-300);
+  width: 229px;
+  height: 39px;
+}
+.groupInner {
+  background-color: var(--color-royalblue-200);
+  width: 122.1px;
+}
+.groupChild2,
+.rectangleParent {
+  position: absolute;
+  top: 508px;
+  left: 199px;
+  width: 229px;
+  height: 39px;
+}
+.groupChild2 {
+  top: 0;
+  left: 107px;
+  border-radius: 47.06px;
+  background-color: var(--color-royalblue-200);
+  width: 122.1px;
+}
+.rectangleGroup {
+  position: absolute;
+  top: 843px;
+  left: 199px;
+  width: 229.1px;
+  height: 39px;
+}
+.cmapignSettingsChild3 {
+  position: absolute;
+  top: 448.5px;
+  left: 171.5px;
+  width: 2.1px;
+  height: 2.1px;
+}
+.cmapignSettingsChild4 {
+  position: absolute;
+  top: 466px;
+  left: 172.3px;
+  width: 1.5px;
+  height: 320px;
+}
+.cmapignSettingsChild5 {
+  position: absolute;
+  top: 931px;
+  left: 199px;
+  border-radius: var(--br-3xs);
+  border: 1.5px solid var(--color-whitesmoke-400);
+  box-sizing: border-box;
+  width: 744px;
+  height: 50px;
+}
+.budgetTimeline,
+.selectLocation {
+  left: 199px;
+  display: flex;
+  align-items: center;
+  width: 96px;
+}
+.selectLocation {
+  position: absolute;
+  top: 898px;
+  line-height: 32px;
+  font-weight: 500;
+}
+.budgetTimeline {
+  top: 474px;
+}
+.budgetTimeline,
+.lifetime,
+.locationType {
+  position: absolute;
+  line-height: 32px;
+  font-weight: 500;
+}
+.locationType {
+  top: 809px;
+  left: 199px;
+  display: flex;
+  align-items: center;
+  width: 96px;
+}
+.lifetime {
+  top: 511px;
+  left: 232px;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+}
+.daily,
+.location {
+  position: absolute;
+  color: var(--color-darkgray-300);
+}
+.location {
+  top: 846px;
+  left: 231px;
+  font-size: var(--font-size-sm);
+  line-height: 32px;
+  font-weight: 500;
+}
+.daily {
+  top: 511px;
+  left: 355px;
+}
+.budgetAndDates,
+.daily,
+.locationInfo,
+.radius {
+  font-size: var(--font-size-sm);
+  line-height: 32px;
+  font-weight: 500;
+}
+.radius {
+  position: absolute;
+  top: 846px;
+  left: 344px;
+  color: var(--color-white);
+}
+.budgetAndDates,
+.locationInfo {
+  left: 194px;
+  text-decoration: underline;
+  color: var(--color-black);
+}
+.budgetAndDates {
+  position: absolute;
+  top: 429px;
+}
+.locationInfo {
+  top: 764px;
+}
+.b,
+.groupIcon,
+.locationInfo {
+  position: absolute;
+}
+.groupIcon {
+  top: 5px;
+  left: 0;
+  width: 24px;
+  height: 24px;
+}
+.b {
+  top: 0;
+  left: 8px;
+  line-height: 32px;
+}
+.groupContainer,
+.groupDiv {
+  position: absolute;
+  top: 428px;
+  left: 161px;
+  width: 24px;
+  height: 32px;
+  color: var(--color-white);
+}
+.groupDiv {
+  top: 763px;
+}
+.campaignSettings,
+.step3Of {
+  position: absolute;
+  top: 363px;
+  left: 164px;
+  font-size: var(--font-size-base);
+  line-height: 32px;
+  color: var(--color-black);
+}
+.step3Of {
+  top: 364px;
+  left: 320px;
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-500);
+}
+.cmapignSettingsChild6 {
+  position: absolute;
+  top: 399.3px;
+  left: 163.3px;
+  width: 798.5px;
+  height: 1.5px;
+}
+.home {
+  position: absolute;
+  top: 18px;
+  left: 28px;
+  line-height: 32px;
+}
+.vuesaxlinearhouseIcon {
+  position: absolute;
+  top: 0;
+  left: 33px;
+  width: 21px;
+  height: 21px;
+}
+.products {
+  position: absolute;
+  top: 16px;
+  left: 0;
+  line-height: 32px;
+}
+.productsParent,
+.vuesaxoutlinebagIcon {
+  position: absolute;
+  top: 0;
+  left: 10px;
+  width: 21px;
+  height: 21px;
+}
+.productsParent {
+  top: 140px;
+  left: 21px;
+  width: 44px;
+  height: 48px;
+}
+.customers {
+  position: absolute;
+  top: 14px;
+  left: 0;
+  line-height: 32px;
+}
+.customersParent,
+.vuesaxoutlineprofile2userIcon {
+  position: absolute;
+  top: 0;
+  left: 16px;
+  width: 21px;
+  height: 21px;
+}
+.customersParent {
+  top: 211px;
+  left: 17px;
+  width: 53px;
+  height: 46px;
+}
+.groupChild4 {
+  top: 0;
+  border-radius: 0 var(--br-11xs) var(--br-11xs) 0;
+  background-color: var(--color-royalblue-400);
+  width: 82px;
+  height: 58px;
+}
+.campaign,
+.groupChild4,
+.groupChild5 {
+  position: absolute;
+  left: 0;
+}
+.groupChild5 {
+  top: 0;
+  border-radius: 0 var(--br-11xs) var(--br-11xs) 0;
+  background-color: var(--color-royalblue-100);
+  width: 5px;
+  height: 58px;
+}
+.campaign {
+  top: 15px;
+  line-height: 32px;
+  font-weight: 500;
+}
+.campaignParent,
+.vuesaxboldvolumeHighIcon {
+  position: absolute;
+  top: 0;
+  left: 15px;
+  width: 21px;
+  height: 21px;
+}
+.campaignParent {
+  top: 8px;
+  left: 18px;
+  width: 50px;
+  height: 47px;
+}
+.homeParent,
+.rectangleContainer {
+  position: absolute;
+  top: 62px;
+  left: 0;
+  width: 82px;
+  height: 58px;
+}
+.homeParent {
+  top: 152px;
+  height: 257px;
+  font-size: var(--font-size-3xs);
+  color: var(--color-white);
+}
+.cmapignSettingsChild7 {
+  position: absolute;
+  top: 247.4px;
+  left: 223px;
+  width: 1108px;
+  height: 3px;
+}
+.cmapignSettingsChild8,
+.readyToGo {
+  position: absolute;
+  top: 242.5px;
+  left: 189.5px;
+  width: 898px;
+  height: 13px;
+}
+.readyToGo {
+  top: 72.9px;
+  left: 0;
+  letter-spacing: -0.02em;
+  display: inline-block;
+  width: 80.2px;
+  height: 18.7px;
+}
+.groupChild6,
+.readyToGoParent {
+  position: absolute;
+  top: 0;
+  left: 8.3px;
+  width: 64.6px;
+  height: 64.6px;
+}
+.readyToGoParent {
+  top: 214px;
+  left: 1262px;
+  width: 80.2px;
+  height: 91.6px;
+  font-size: var(--font-size-sm);
+  color: var(--color-lightsteelblue);
+}
+.chooseProduct {
+  position: absolute;
+  top: 70px;
+  left: 0;
+  letter-spacing: -0.02em;
+  font-weight: 500;
+}
+.groupChild7 {
+  position: absolute;
+  top: 0;
+  left: 30px;
+  width: 62px;
+  height: 62px;
+}
+.chooseProductParent {
+  position: absolute;
+  top: 216px;
+  left: 519px;
+  width: 122px;
+  height: 90px;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-200);
+}
+.campaignSettings1 {
+  position: absolute;
+  top: 71px;
+  left: 0;
+  letter-spacing: -0.02em;
+  font-weight: 500;
+}
+.groupChild8 {
+  position: absolute;
+  top: 0;
+  left: 39px;
+  width: 62px;
+  height: 62px;
+}
+.campaignSettingsParent,
+.whatYouWant {
+  position: absolute;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-200);
+}
+.campaignSettingsParent {
+  top: 216px;
+  left: 891px;
+  width: 140px;
+  height: 91px;
+}
+.whatYouWant {
+  top: 286px;
+  left: 132px;
+  letter-spacing: -0.02em;
+  font-weight: 500;
+}
+.cmapignSettingsChild9 {
+  position: absolute;
+  top: 219px;
+  left: 172px;
+  width: 62px;
+  height: 62px;
+}
+.vuesaxboldbagIcon,
+.vuesaxboldlampChargeIcon {
+  position: absolute;
+  top: 235px;
+  left: 189px;
+  width: 28px;
+  height: 28px;
+}
+.vuesaxboldbagIcon {
+  top: 234px;
+  left: 566px;
+}
+.div,
+.div1,
+.div2,
+.div3,
+.enterCampaignBudget,
+.selectTargetRadius {
+  position: absolute;
+  top: 662px;
+  left: 199px;
+  line-height: 32px;
+  font-weight: 500;
+}
+.div,
+.div1,
+.div2,
+.div3,
+.selectTargetRadius {
+  top: 710px;
+}
+.div1,
+.div2,
+.div3,
+.selectTargetRadius {
+  top: 1040px;
+}
+.div2,
+.div3,
+.selectTargetRadius {
+  top: 710px;
+  left: 881px;
+}
+.div3,
+.selectTargetRadius {
+  top: 1040px;
+  left: 921px;
+}
+.selectTargetRadius {
+  top: 997px;
+  left: 199px;
+}
+.groupChild9 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 24px;
+  height: 18px;
+}
+.vuesaxlineararrowDownIcon {
+  position: absolute;
+  top: 6px;
+  left: 51px;
+  width: 7px;
+  height: 7px;
+}
+.inr {
+  position: absolute;
+  top: 2px;
+  left: 28px;
+  line-height: 15px;
+  font-weight: 500;
+}
+.groupParent1 {
+  position: absolute;
+  top: 669px;
+  left: 880px;
+  width: 58px;
+  height: 18px;
+  font-size: var(--font-size-2xs);
+  color: var(--color-black);
+}
+.groupChild10,
+.groupChild11 {
+  position: absolute;
+  top: 8px;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-gainsboro);
+  width: 738px;
+  height: 5px;
+}
+.groupChild11 {
+  background-color: var(--color-royalblue-100);
+  width: 343px;
+}
+.ellipseDiv {
+  position: absolute;
+  top: 0;
+  left: 332.2px;
+  border-radius: 50%;
+  background: linear-gradient(#1977f3, #1977f3), #fff;
+  border: 2px solid var(--color-white);
+  box-sizing: border-box;
+  width: 20.2px;
+  height: 20px;
+}
+.cmapignSettingsInner1,
+.groupChild13,
+.rectangleParent1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 738px;
+  height: 20px;
+}
+.cmapignSettingsInner1,
+.groupChild13 {
+  top: 694px;
+  left: 199px;
+}
+.groupChild13 {
+  top: 8px;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-royalblue-100);
+  width: 599px;
+  height: 5px;
+}
+.groupChild14 {
+  position: absolute;
+  top: 0;
+  left: 593.2px;
+  border-radius: 50%;
+  background: linear-gradient(#1977f3, #1977f3), #fff;
+  border: 2px solid var(--color-white);
+  box-sizing: border-box;
+  width: 20px;
+  height: 19.8px;
+}
+.cmapignSettingsInner2,
+.groupChild15,
+.rectangleParent2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 738px;
+  height: 19.8px;
+}
+.cmapignSettingsInner2,
+.groupChild15 {
+  top: 1029px;
+  left: 199px;
+}
+.groupChild15 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-black);
+  width: 68px;
+  height: 25px;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.polygonIcon {
+  position: absolute;
+  top: -28.2px;
+  left: -36.9px;
+  border-radius: var(--br-12xs);
+  width: 9.7px;
+  height: 8.6px;
+}
+.rs {
+  letter-spacing: -0.01em;
+}
+.span1 {
+  letter-spacing: -0.02em;
+}
+.b2 {
+  font-size: var(--font-size-xs);
+}
+.rs2000 {
+  position: absolute;
+  top: -20px;
+  left: -59px;
+}
+.rectangleParent3 {
+  top: 0;
+  left: 0;
+  width: 68px;
+  height: 29px;
+}
+.cmapignSettingsInner3,
+.groupChild16,
+.rectangleParent3 {
+  position: absolute;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.cmapignSettingsInner3 {
+  top: 746px;
+  left: 575px;
+  width: 68px;
+  height: 29px;
+  font-size: 8px;
+  color: var(--color-white);
+}
+.groupChild16 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-black);
+  width: 52px;
+  height: 25px;
+}
+.groupChild17 {
+  position: absolute;
+  top: -28.2px;
+  left: -28.9px;
+  border-radius: var(--br-12xs);
+  width: 9.7px;
+  height: 8.6px;
+}
+.km {
+  position: absolute;
+  top: -20px;
+  left: -43px;
+  letter-spacing: -0.02em;
+}
+.cmapignSettingsInner4,
+.rectangleParent4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 52px;
+  height: 29px;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.cmapignSettingsInner4 {
+  top: 1080px;
+  left: 828px;
+  color: var(--color-white);
+}
+.vuesaxboldgpsIcon {
+  position: absolute;
+  top: 944px;
+  left: 903px;
+  width: 24px;
+  height: 24px;
+}
+.groupChild18 {
+  border-radius: var(--br-3xs);
+  background-color: var(--color-royalblue-200);
+  width: 237px;
+  height: 50px;
+}
+.continue,
+.groupChild18,
+.rectangleWrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.rectangleWrapper {
+  width: 237px;
+  height: 50px;
+}
+.continue {
+  font-weight: 500;
+}
+.groupFrame,
+.groupParent2,
+.groupWrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 71px;
+  height: 20px;
+}
+.groupParent2,
+.groupWrapper {
+  top: 15px;
+  left: 83px;
+}
+.groupParent2 {
+  top: 1062px;
+  left: 1153px;
+  width: 237px;
+  height: 50px;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+}
+.vuesaxlineargiftIcon {
+  position: absolute;
+  top: 8px;
+  left: 245px;
+  width: 21px;
+  height: 20px;
+}
+.freeTrialEnds {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 32px;
+}
+.groupChild19 {
+  border-radius: var(--br-8xs);
+  background-color: var(--color-orange);
+}
+.groupChild19,
+.rectangleFrame {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 88px;
+  height: 32px;
+}
+.buyPlanWrapper,
+.groupWrapper1,
+.icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 49px;
+  height: 15px;
+}
+.groupWrapper1,
+.icon {
+  top: 8px;
+  left: 31px;
+}
+.icon {
+  top: 7px;
+  left: 10px;
+  width: 16px;
+  overflow: hidden;
+}
+.groupParent3 {
+  position: absolute;
+  top: 2px;
+  left: 137px;
+  width: 88px;
+  height: 32px;
+  color: var(--color-darkorange);
+}
+.freeTrialEndsIn2DaysParent,
+.vuesaxlineargiftParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 225px;
+  height: 34px;
+}
+.vuesaxlineargiftParent {
+  top: 21px;
+  left: 857px;
+  width: 265px;
+  color: var(--color-gray-600);
+}
+.cmapignSettings {
+  position: relative;
+  background-color: var(--color-ghostwhite);
+  width: 100%;
+  height: 1236px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-dimgray-100);
+  font-family: var(--font-roboto);
+}
